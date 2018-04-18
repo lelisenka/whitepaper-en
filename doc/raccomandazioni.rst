@@ -8,20 +8,17 @@ with the continuous public debate on Artificial Intelligence.
 
 1. **Promote** a national platform dedicated to the development of AI solutions in 
    order to: 
-
   a. promote the collection of annotated data, codes and learning models;
-
   b. organize and convey tests openly before the release of AI   systems used in 
      the PA in order to evaluate their behaviour and limit the anomalies and the 
      amplification of the bias;
-  
   c. offer adequate computing resources to experiment with techniques and solutions;
-
-2. Disclose to the public the intermediate results of the elaboration of AI 
-  algorithms (ex. parameters of neural networks) operated on data from public 
-  administrations, subject to conditions that may harm the privacy and security 
-  of citizens. These results must allow the reproducibility of the processes, their 
-  evaluation and verifiability; 
+  
+2. Disclose to the public the intermediate results of the elaboration of AI
+   algorithms (ex. parameters of neural networks) operated on data from public 
+   administrations, subject to conditions that may harm the privacy and security 
+   of citizens. These results must allow the reproducibility of the processes, their 
+   evaluation and verifiability; 
 
 3. Enable with new resources the computational linguistic systems for the Italian 
    language (such as digitized lexicons or annotated corpora) to be distributed 
@@ -61,11 +58,8 @@ with the continuous public debate on Artificial Intelligence.
 
 9. Establish a Trans-disciplinary Centre on AI, in synergy with the Skills Centre, 
    which will have the following tasks:
-   
    a. promote and disclose the debate on the evolution of ethics; 
-   
    b. support critical reflection on emerging ethical issues; 
-   
    c. improve the conditions for involving experts and citizens to transform technical 
       and social considerations into regulations, standards and technical solutions;
 
